@@ -1,0 +1,19 @@
+{
+    "name": "root",
+    "version": "2.0.0",
+    "description": "A down-to-earth JS preprocessor",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RustyZipTie/Root2.0.git"
+    },
+    "author": "Kai Grignon",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/RustyZipTie/Root2.0/issues"
+    },
+    "homepage": "https://github.com/RustyZipTie/Root2.0#readme"
+}
